@@ -1,0 +1,13 @@
+D:\baitap\chuyendoinhiet\bin\Debug\netcoreapp3.1\chuyendoinhiet.exe
+D:\baitap\chuyendoinhiet\bin\Debug\netcoreapp3.1\chuyendoinhiet.deps.json
+D:\baitap\chuyendoinhiet\bin\Debug\netcoreapp3.1\chuyendoinhiet.runtimeconfig.json
+D:\baitap\chuyendoinhiet\bin\Debug\netcoreapp3.1\chuyendoinhiet.runtimeconfig.dev.json
+D:\baitap\chuyendoinhiet\bin\Debug\netcoreapp3.1\chuyendoinhiet.dll
+D:\baitap\chuyendoinhiet\bin\Debug\netcoreapp3.1\chuyendoinhiet.pdb
+D:\baitap\chuyendoinhiet\obj\Debug\netcoreapp3.1\chuyendoinhiet.csprojAssemblyReference.cache
+D:\baitap\chuyendoinhiet\obj\Debug\netcoreapp3.1\chuyendoinhiet.AssemblyInfoInputs.cache
+D:\baitap\chuyendoinhiet\obj\Debug\netcoreapp3.1\chuyendoinhiet.AssemblyInfo.cs
+D:\baitap\chuyendoinhiet\obj\Debug\netcoreapp3.1\chuyendoinhiet.csproj.CoreCompileInputs.cache
+D:\baitap\chuyendoinhiet\obj\Debug\netcoreapp3.1\chuyendoinhiet.dll
+D:\baitap\chuyendoinhiet\obj\Debug\netcoreapp3.1\chuyendoinhiet.pdb
+D:\baitap\chuyendoinhiet\obj\Debug\netcoreapp3.1\chuyendoinhiet.genruntimeconfig.cache
